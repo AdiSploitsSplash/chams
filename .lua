@@ -1,4 +1,4 @@
-nameesp.MouseButton1Down:connect(function()
+
 	function CreateSG(name,parent,face)
 		local SurfaceGui = Instance.new("SurfaceGui",parent)
 		SurfaceGui.Parent = parent
@@ -30,4 +30,4 @@ nameesp.MouseButton1Down:connect(function()
 			end
 		end
 	end
-end)
+
